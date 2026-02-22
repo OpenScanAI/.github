@@ -1,0 +1,2 @@
+# .github
+OpenScanAI organization profile
